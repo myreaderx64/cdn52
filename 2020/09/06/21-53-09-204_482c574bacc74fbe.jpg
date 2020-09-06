@@ -1,0 +1,3606 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="gbk">
+<title>学术会议 - 学术交流区 -  小木虫论坛-学术科研互动平台</title>
+<meta name="keywords" content="学术交流区,学术会议, 小木虫 论坛">
+<meta name="description" content="小木虫论坛-学术会议专栏：拥有来自国内各大院校、科研院所的博硕士研究生，企业研发人员，旺盛的人气、良好的交流氛围及广阔的交流空间，聚集了众多科研工作者的学术会议学术资源、学术会议经验交流信息，是国内最有人气的学术会议学术科研平台。">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<link rel="shortcut icon" href="http://muchongimg.xmcimg.com/data/emuch_bbs_images/favicon.ico" type="image/x-icon" />
+<link rel="dns-prefetch" href="i.muchong.com"/>
+<link rel="dns-prefetch" href="muchongavatar.xmcimg.com"/>
+<link rel="dns-prefetch" href="muchongimg.xmcimg.com"/>
+<link rel="dns-prefetch" href="image-ali.keyan.cc"/>
+<link rel="dns-prefetch" href="yuyin.xmcimg.com"/>
+<link rel="dns-prefetch" href="yuyincdn.xmcimg.com"/>
+
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/jquery.js"></script>
+<script type="text/javascript">jQuery.noConflict();  var XMC_GKEY="/小木虫/[大区]学术交流区/[板块]学术会议"; var clickok_hash='e160dde67467bf0c594b574cce07e5c4', cookiepre='', cookiedomain='.muchong.com', cookiepath='/',site_url="http://muchong.com/bbs/";</script>
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/jquery.select.js?15373250"></script>
+<link type="text/css" href="http://muchongimg.xmcimg.com/data/emuch_bbs_images/css/qing/css/global.css?1537325052" rel="stylesheet">
+<!--[if IE]>
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/html5shiv.min.js?15373250"></script>
+<![endif]-->
+<script language="javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/script_ajax.js?15373250"></script>
+<script language="javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/common.js?153732503"></script>
+<script src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/qing.js?15373250"></script>
+<script src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/global.js?15373250"></script>
+<script type="text/javascript" src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/layer/layer.js?15373250"></script>
+<base href="http://muchong.com/bbs/"/>
+</head>
+<body>
+<div id="append_parent"></div>
+<div id="ajaxwaitid"></div>
+<div id="show_forum_f" style="display:none;"></div>
+<div class="bg">
+<div class="top_Nav_Box solid">
+    <div class="wrapper_head solid">
+        <div class="xmc_fl">
+            <ul >
+            <div class="xmc_fl">
+         <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/portal/image/portal/logo.png?20163" style="display: none;">
+                <li class="index" style="cursor: pointer"><a href="/bbs/" class="logo" style="background: transparent;"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/logo_new.png"></a></li>
+                <li class="tar_Down_Nav top_Down_Nav" style="margin-left: 10px;">
+                    <dl class="" id="default_bg">
+                        <dt class="xmc_nav">版块导航<em></em></dt>
+                        <dd id="loadingnav" >
+                            <p class="xmc_lm20">正在加载中...</p>
+                        </dd>
+                    </dl>
+                </li>
+
+                                <li><a href="http://m.muchong.com/?f=bbs&w=nav" target="_blank">客户端APP下载</a></li>
+            <li><a href="http://hao.muchong.com/?f=muchong" style="" target="_blank">木虫导航</a> </li>
+                
+
+            </ul>
+        </div>
+
+        <div class="xmc_fr top_Login" >
+    <a href="/bbs/logging.php?action=login&t=1599429188">登录</a>
+    <a href="register.php" >注册</a>
+    </div>
+    
+    <div class="xmc_fr xmc_Search2">
+    <form class="xmc_fl" action="http://muchong.com/bbs/qing_search.php" >
+    <div class="xmc_fl">
+    <input name="search_type" type="hidden" value="thread" id="inputselect"/>
+    <input class="xmc_Search_Txt xmc_c9" type="text"  name="wd" value="" placeholder="请输入用户名/关键字">
+    </div>
+    <div class="xmc_fl">
+    <div id="divselect" class="divselect">
+    <cite>帖子</cite>
+    <ul class="select_x solid">
+    <li ><a href="javascript:;" selectid="thread">帖子</a></li>
+    <li ><a href="javascript:;" selectid="user">用户</a></li>
+        <li ><a href="javascript:;" selectid="299">本版</a></li>
+        </ul>
+    </div>
+    </div>
+    <div class="xmc_fl">
+    <input class="xmc_Search_Btn" type="submit" value="搜索">
+    </div>
+
+    </form>
+    </div>
+
+    </div>
+</div>
+
+
+<div style="height: 50px;"></div>
+
+
+<!-- 请置于所有广告位代码之前 -->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+
+<style>
+.dropdown h4{height:23px; font:12px/23px Arial, Helvetica, sans-serif;border:solid 1px #AAA;background:url(js/qing/js/droparrow.gif) no-repeat right center;}
+</style>
+<div class="wrapper header_table">
+<table cellspacing="0" cellpadding="0" align="left" border="0" >
+<tr>
+<td align="right"><a href="http://muchong.com/bbs/a1751.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/data/bcs/2016/0905/1_1473064859_424.gif" align="absmiddle" width="300" height="60"></a></td>
+<td align="right"></td>
+<td align="right"><a href="http://muchong.com/bbs/a2449.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/0402/1_1554174594_285.jpg" align="absmiddle"></a></td>
+<td align="right"><a href="http://muchong.com/bbs/a2451.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0622/4273051_1592789976_119.gif" align="absmiddle"></a></td>
+
+</tr>
+</table>
+</div>
+<div class="hr_10"></div>
+
+<div class="wrapper" style=" background: #fff;border: 1px solid #9FC9EB;">
+<div class="index_rank">
+<h2 class="xmc_title xmc_blue"><table width="100%">
+<tr>
+<td><strong class="xmc_ft14 ">
+24小时热门版块排行榜&nbsp;&nbsp;&nbsp;&nbsp;
+</strong>
+</td>
+<td style="text-align: right;">
+<a href="http://muchong.com/bbs/a2468.html" class="" target="_blank" style='display: inherit!important;'><span style="padding-left:10px;font-weight:bold;color:#FF0000;font-size: 14px !important">意得辑论文润色满3千送无线充电宝</span></a><a href="http://muchong.com/bbs/a2489.html" class="" target="_blank" style='display: inherit!important;'><span style="padding-left:10px;font-weight:bold;color:#080808;font-size: 14px !important">    论文翻译    </span></a></td>
+</tr>
+</table></h2>
+<ul class="solid" style="padding: 5px 0 5px 10px;">
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-437-1" target="_blank">论坛更新日志</a><span class="xmc_c9"> (19785)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-133-1" target="_blank">虫友互识</a><span class="xmc_c9"> (185)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-6-1" target="_blank"><font color=green>休闲灌水</font></a><span class="xmc_c9"> (176)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-307-1" target="_blank"><font color=red>论文道贺祈福</font></a><span class="xmc_c9"> (127)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-198-1" target="_blank"><font color=red>硕博家园</font></a><span class="xmc_c9"> (106)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-346-1" target="_blank"><font color=green>招聘信息布告栏</font></a><span class="xmc_c9"> (68)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-197-1" target="_blank">考博</a><span class="xmc_c9"> (55)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-125-1" target="_blank"><font color=red>论文投稿</font></a><span class="xmc_c9"> (47)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-342-1" target="_blank">博后之家</a><span class="xmc_c9"> (39)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-234-1" target="_blank"><font color=green>基金申请</font></a><span class="xmc_c9"> (29)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-236-1" target="_blank"><font color=red>高分子</font></a><span class="xmc_c9"> (28)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-416-1" target="_blank"><font color=red>版块工场</font></a><span class="xmc_c9"> (20)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-430-1" target="_blank">导师招生</a><span class="xmc_c9"> (11)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-158-1" target="_blank"><font color=red>文献求助</font></a><span class="xmc_c9"> (10)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-127-1" target="_blank">考研</a><span class="xmc_c9"> (7)</span></li>
+<li><span class="icon_rank">&gt;</span><a  class="xmc_blue" href="http://muchong.com/f-408-1" target="_blank">有奖起名</a><span class="xmc_c9"> (6)</span></li>
+</ul>
+</div>
+</div>
+<div class="hr_10"></div>
+
+<div class="wrapper header_table">
+<table cellspacing="0" cellpadding="0" align="center" border="0">
+<tr align="center">
+<td colspan="3">
+</td>
+<td><a href="http://muchong.com/bbs/a2497.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0827/4273051_1598499002_685.gif" align="absmiddle" width="245" height="90"></a></td>
+<td><a href="http://muchong.com/bbs/a1953.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/1101/1_1572581076_658.gif" align="absmiddle" width="233" height="90"></a></td>
+</tr>
+<tr>
+<td align="left" width="253"><a href="http://muchong.com/bbs/a2472.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/1119/1_1574152091_461.gif" align="absmiddle"></a></td>
+<td align="center" width="253"><a href="http://muchong.com/bbs/a217.html" class="" target="_blank" style='display: inherit!important;'><img align="absmiddle" src=http://muchongimg.xmcimg.com//data/bcs/2014/0114/1_1389672826_882.gif></a></td>
+<td align="right" width="254"><a href="http://muchong.com/bbs/a2458.html" class="" target="_blank" style='display: inherit!important;'><img align="absmiddle" src="http://muchongimg.xmcimg.com/oss2/img/2019/0416/1_1555393117_141.gif"></a></td>
+<td width="232"><a href="http://muchong.com/bbs/a2505.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0903/w304h4273051_1599121293_563.jpg" align="absmiddle" ></a></td>
+<td width="233"><a href="http://muchong.com/bbs/a429.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2020/0715/4273051_1594799908_306.gif" align="absmiddle" width="223" height="80"></a></td>
+</tr>
+</table>
+</div>
+<div class="hr_10"></div>
+
+
+<div class="wrapper">
+<div class="xmc_msearch">
+<div class="xmc_search_text">
+<span class="xmc_fr">
+<a class="xmc_blue" href="misc.php?action=modreg&fid=299&op=add" target="_blank">申请当版主</a>
+<span class="xmc_cc xmc_line">|</span>
+<a href="http://muchong.com/f-299-1-view-archive" target="_blank">存档区</a>
+<span class="xmc_cc xmc_line">|</span><a href="epi.php?fid=299">CE-EPI排行</a></span>
+<span class="breadcrumb"><a href="index.php">小木虫论坛-学术科研互动平台</a> &raquo; <a href="index.php?gid=308">学术交流区</a> &raquo; <a href="http://muchong.com/f-299-1">学术会议</a> <a href="misc.php?action=myread&id=299&idtype=fid" class="sub_Btn xmc_lm5">订阅</a> </span>
+
+</div>
+</div>
+<div class="hr_10"></div>
+
+
+</div>
+<div class="wrapper">
+<h2 class="xmc_title xmc_blue xmc_line_top xmc_line_lr"><strong class="xmc_ft14">管理团队</strong> (金币库 <a href="forumcredit.php?fid=299" target="_blank" class="xmc_blue">122062</a>  <a class="xmc_org" href="forumcredit.php?fid=299" target="_blank">充值</a> ) </h2>
+<div class="solid forum_info xmc_line_lrb">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div class="xmc_fl forum_Team">
+<dl>
+<dt>主管区长：</dt>
+<dd>
+<a class="xmc_blue xmc_fb xmc_rm10" href="viewpro.php?uid=622095" target="_blank" title="当前在线"><span class="admin_icon"></span>天天向上3035</a><a class="xmc_rm10" href="viewpro.php?uid=539655" target="_blank">book2005593</a></dd>
+</dl>
+<dl>
+<dt>主管版主：</dt>
+<dd>
+<a class="xmc_rm10" href="viewpro.php?uid=314395" target="_blank">杈杈</a><a class="xmc_rm10" href="viewpro.php?uid=3131175" target="_blank">Paulwolf</a></dd>
+</dl>
+</div>
+</td>
+<td>
+<div class="xmc_fr forum_duty"><strong class="xmc_blue">50%</strong><span>最高出勤率</span>
+</td>
+</tr>
+</table>
+</div>
+<div class="hr_10"></div>
+<h2 class="xmc_title xmc_blue xmc_line_top xmc_line_lr"><strong class="xmc_ft14">杰出贡献者</strong>  </h2>
+<div class="solid forum_info xmc_line_lrb">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div class="xmc_fl forum_Team">
+<dl>
+<dt>荣誉版主：</dt>
+<dd>
+<a class="xmc_rm10" href="viewpro.php?uid=108032" target="_blank">bingyulin3</a><a class="xmc_rm10" href="viewpro.php?uid=161721" target="_blank">努力着</a><a class="xmc_rm10" href="viewpro.php?uid=661639" target="_blank">飞扬2282</a><a class="xmc_rm10" href="viewpro.php?uid=543637" target="_blank">zhuimengren639</a><a class="xmc_rm10" href="viewpro.php?uid=349039" target="_blank">lby1258</a><a class="xmc_rm10" href="viewpro.php?uid=523254" target="_blank">xuanzhang</a><a class="xmc_rm10" href="viewpro.php?uid=513781" target="_blank">liuyunme</a><a class="xmc_rm10" href="viewpro.php?uid=109989" target="_blank">zero623</a><a class="xmc_rm10" href="viewpro.php?uid=677866" target="_blank">wg423</a></dd>
+</dl>
+<dl>
+<dt>荣誉成员：</dt>
+<dd>
+<a class="xmc_rm10" href="viewpro.php?uid=63215" target="_blank">xiaogounihao</a><a class="xmc_rm10" href="viewpro.php?uid=592171" target="_blank">nicer</a><a class="xmc_rm10" href="viewpro.php?uid=650155" target="_blank">mynametzhh</a><a class="xmc_rm10" href="viewpro.php?uid=749797" target="_blank">xuchunlei</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="hr_10"></div>
+
+
+<div class="wrapper">
+
+
+</div>
+
+
+
+<div class="wrapper">
+<div class="user_Rank bg_global  bg_global_padding">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">CE-EPI 牛人榜</strong>
+<a class="xmc_rm10 xmc_lm10 xmc_blue" href="epi.php?fid=299">总排行</a>
+<a class="xmc_rm10 xmc_blue" href="epi.php?fid=299&day=7">7日排行</a>
+<a class="xmc_rm10 xmc_blue" href="epi.php?fid=299&day=30">30日排行</a>
+<a class="xmc_rm10 xmc_blue" href="epi.php?fid=299&day=90">90日排行</a>
+</h2>
+<ul class="solid">
+
+<li> <span ><a href="space.php?view=epi&uid=1228933&fid=299"  title="专家指数: 3" target="_blank">Foxwang</a></span><em>+3</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1266593&fid=299"  title="专家指数: 2" target="_blank">star_zhang</a></span><em>+2</em></li>
+<li> <span ><a href="space.php?view=epi&uid=2250512&fid=299"  title="专家指数: 1" target="_blank">transfix</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=428484&fid=299"  title="专家指数: 1" target="_blank">norasun1983</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1588514&fid=299"  title="专家指数: 1" target="_blank">jnzxol</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=983260&fid=299"  title="专家指数: 1" target="_blank">yiliu_1984</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=165633&fid=299"  title="专家指数: 1" target="_blank">stormxuhao</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=784367&fid=299"  title="专家指数: 1" target="_blank">nandehutu9327</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=878394&fid=299"  title="专家指数: 1" target="_blank">缺友情</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=970265&fid=299"  title="专家指数: 1" target="_blank">wangchenxu</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1446687&fid=299"  title="专家指数: 1" target="_blank">danie1113</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1264338&fid=299"  title="专家指数: 1" target="_blank">leimiao_hit</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=435501&fid=299"  title="专家指数: 1" target="_blank">ncxmx</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1287965&fid=299"  title="专家指数: 1" target="_blank">shaojiyeah</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=782124&fid=299"  title="专家指数: 1" target="_blank">tyhjqxbz</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1261161&fid=299"  title="专家指数: 1" target="_blank">教师甲</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=833028&fid=299"  title="专家指数: 1" target="_blank">4IeeeTrans</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1088061&fid=299"  title="专家指数: 1" target="_blank">xiaonanluo</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=766495&fid=299"  title="专家指数: 1" target="_blank">atu5257</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1199959&fid=299"  title="专家指数: 1" target="_blank">wyxsfh</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=529185&fid=299"  title="专家指数: 1" target="_blank">kaiqqq999</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=523254&fid=299"  title="专家指数: 1" target="_blank">xuanzhang</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=1069808&fid=299"  title="专家指数: 1" target="_blank">huigoo</a></span><em>+1</em></li>
+<li> <span ><a href="space.php?view=epi&uid=543520&fid=299"  title="专家指数: 1" target="_blank">sanshyuan</a></span><em>+1</em></li>
+</ul>
+</div>
+<div class="forum_explan bg_global  bg_global_padding">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">版块说明</strong></h2>
+<dl class="solid">
+<li><b><font color="Red"><font>初到会议交流版请学习</font></font></b><a href="http://muchong.com/t-3354087-1#pid1798675" target="_blank"><font><font color="blue"><b>【本版版规】</b></font></font></a><a href="http://muchong.com/t-3204857-1" target="_blank"><font><b><font color="blue">会议交流版专家指数（CE-EPI）申请标准</font></b></font></a>，<b><font color="Red"><font>发布会议信息请移步</font></font></b><a href="http://muchong.com/f-345-1" target="_blank"><b><font><font color="blue">学术会议布告栏</font></a></font></b><br>
+<font><font color="red">友情提醒：会议版只是提供一个平台供参会者和组委会进行交流，请各位投稿、注册前自己仔细斟酌、辨别会议的真伪，小木虫不承担任何责任。 </font></font></li>
+</dl>
+</div>
+<div class="forum_Post bg_global  bg_global_padding">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">全论坛公告</strong></h2>
+<ul class="solid">
+<li><em>&gt;</em><a href="http://muchong.com/t-13642817-1" target="_blank" class="xmc_ft14" title="看看都有哪些违禁词？发帖/回帖或者站内信息含有违禁词被封号！">看看都有哪些违禁词？发帖/回帖或者站内信息含有违禁词被 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-13110166-1-amp;pid-1#pid1" target="_blank" class="xmc_ft14" title="【2019年度注册执考区】招聘版主/专家顾问专贴">【2019年度注册执考区】招聘版主/专家顾问专贴</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11530701-1" target="_blank" class="xmc_ft14" title="人文经济区相关版块进行重新调整公告">人文经济区相关版块进行重新调整公告</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11513921-1-pid-1#pid1" target="_blank" class="xmc_ft14" title="专业学科区紧急招聘各专业才俊担任版主~属于你的机会来了~~">专业学科区紧急招聘各专业才俊担任版主~属于你的机会来了 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-11264359-1" target="_blank" class="xmc_ft14" title="【人文经济区】人文经济区成立暨版主招聘简章">【人文经济区】人文经济区成立暨版主招聘简章</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-9456136-1" target="_blank" class="xmc_ft14" title="【文献检索交流活动】你的方向你做主，检索文献快准稳">【文献检索交流活动】你的方向你做主，检索文献快准稳</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-6988213-1" target="_blank" class="xmc_ft14" title="【化学化工区】招聘实习版主/专家顾问（开学季，请大家踊跃申请）">【化学化工区】招聘实习版主/专家顾问（开学季，请大家踊 </a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-8698212-1" target="_blank" class="xmc_ft14" title="【有奖征集活动】文献链接检索交流——实例版">【有奖征集活动】文献链接检索交流——实例版</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-5276734-1" target="_blank" class="xmc_ft14" title="【文献求助区】代理Proxy资源版招聘专家顾问">【文献求助区】代理Proxy资源版招聘专家顾问</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-49210-1-view-old" target="_blank" class="xmc_ft14" title="小木虫论坛基本规则(会员必读)">小木虫论坛基本规则(会员必读)</a></li>
+</ul>
+</div>
+<div class="forum_Post bg_global">
+<h2 class="xmc_title xmc_blue"><strong class="xmc_ft14">板块置顶</strong></h2>
+<ul class="solid">
+<li><em>&gt;</em><a href="http://muchong.com/t-10728546-1" target="_blank" style="font-weight:bold;color: red" title="如何判断学术会议的质量与真伪" class="xmc_ft14">如何判断学术会议的质量与真伪</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3354087-1" target="_blank" style="font-weight:bold;font-size:14px;color: red" title="【学术会议交流版】版规" class="xmc_ft14">【学术会议交流版】版规</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3204857-1" target="_blank" style="font-weight:bold;font-size:14px;color: green" title="会议交流版专家指数（CE-EPI）管理办法【试行】" class="xmc_ft14">会议交流版专家指数（CE-EPI）管理办法【试行】</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-3233579-1" target="_blank" style="font-weight:bold;font-size:14px;color: green" title="会议交流版    【优秀帖子】&amp;【版规】  索引" class="xmc_ft14">会议交流版    【优秀帖子】&amp;【版规】  索引</a></li>
+<li><em>&gt;</em><a href="http://muchong.com/t-2409307-1" target="_blank" style="font-weight:bold;font-size:14px;color: blue" title="学术会议版版主议事厅之二" class="xmc_ft14">学术会议版版主议事厅之二</a></li>
+</ul>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div class="wrapper">
+<div class="solid">
+<div class="xmc_fr xmc_Pages">
+<table class="multi" cellspacing="1" cellpadding="6" style=""><tr bgcolor="#E4EAF2" class="smalltxt"><td class="header">27151</td><td class="header">1/272</td><td><u><b>1</b></u></td><td><a href="http://muchong.com/f-299-2">2</a></td><td><a href="http://muchong.com/f-299-3">3</a></td><td><a href="http://muchong.com/f-299-4">4</a></td><td><a href="http://muchong.com/f-299-5">5</a></td><td><a href="http://muchong.com/f-299-6">6</a></td><td><a href="http://muchong.com/f-299-2">下一页</a></td></tr></table></div>
+</div>
+</div>
+<div class="wrapper">
+<div class="hr_10"></div>
+<div class="forum_Tag">
+    <a  class="on" href="http://muchong.com/f-299-1">全部</a>
+        <a href="http://muchong.com/f-299-1-typeid-2367"  >会议点评</a>
+        <a href="http://muchong.com/f-299-1-typeid-708"  >会议资源</a>
+        <a href="http://muchong.com/f-299-1-typeid-1383"  >参会经验</a>
+        <a href="http://muchong.com/f-299-1-typeid-827"  >讨论咨询</a>
+        <a href="http://muchong.com/f-299-1-typeid-1793"  >会议检索</a>
+        <a href="http://muchong.com/f-299-1-typeid-709"  >其他</a>
+        <a href="http://muchong.com/f-299-1-typeid-1682"  >版务</a>
+    </div>
+<form method="post" name="moderate" action="topicadmin.php?action=moderate&fid=299&view=&type=&threadtype=0&order=lastpost&ascdesc=DESC&tagid=0" style="margin:0;padding:0;">
+<input type="hidden" name="formhash" value="5f41f52e">
+<div class="forum_head xmc_line_lr">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+
+<th colspan="2" style="padding: 2px 0px 2px 15px;;">
+<a href="http://muchong.com/f-299-1"  class="xmc_blod">回帖排序</a>
+<a href="http://muchong.com/f-299-1-order-tid" >发表排序</a>
+ <a href="http://muchong.com/f-299-1" lass="xmc_blue">刷新页面</a>  &nbsp;<font color=gray>|</font>&nbsp; <a href="http://muchong.com/f-299-1-threadtype-1">交流</a> &nbsp;<font color=gray>|</font>&nbsp; <a href="http://muchong.com/f-299-1-threadtype-2"><font color=green>求助</font></a> &nbsp;<font color=gray>|</font>&nbsp; <a href="http://muchong.com/f-299-1-threadtype-3"><font color=red>资源</font></a><a href="http://muchong.com/f-299-1-view-digest"  >精华区</a>
+</th>
+<td class="by">作者</td>
+<td class="by">最后发表</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="forum_body xmc_line_lr">
+<table border="0" cellpadding="0" cellspacing="0" class="xmc_bpt">
+<tr class="forum_list">
+<td class="icn" style="padding-left: 8px;"><span style="color:green;">[<a href="creditshow.php" style="color:green;">竞价</a>]</span></td>
+<th  class="thread-name">
+<a href="creditshow.php?action=view&logid=63929" target="_blank" class="a_subject"><span style="color:red;">募格编辑-论文润色、翻译、全程发表、预存款服务---中国科学院旗下基金投资企业</span> <span style="background-color:red;color:#FFFFFF;padding:1px;">代金</span> </a>
+</th>
+<td class="by"><cite><a href="space.php?uid=1900645" target="_blank">MogoEdit</a></cite>
+<span class="xmc_b9">2020-09-07</span></td>
+<td class="by">刚刚</td>
+</tr>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> <font color="red">[推荐]</font>
+
+<a class="a_subject" href="/t-3327604-1" style="font-weight:bold;color: blue" target="_blank">★★★★★★会议交流版【资源帖】及【精华帖】汇总★★★★★★</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3327604-1">1</a> <a href="/t-3327604-2">2</a> <a href="/t-3327604-3">3</a> <a href="/t-3327604-4">4</a> <a href="/t-3327604-5">5</a> <a href="/t-3327604-6">6</a>  .. <a href="/t-3327604-9">9</a> )<font color="red"> (评阅+5)</font>
+
+<span style="color:gray;">(86/28624)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=523254">xuanzhang</a></cite>
+<span class="xmc_b9">
+2011-06-23</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-03-13 11:33:29</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=tanqianji" class="xmc_b9">tanqianji</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-709" title="其他" class="xmc_blue">其他</a>]</span> <font color="red">[推荐]</font>
+
+<a class="a_subject" href="/t-3293766-1" style="font-weight:bold;color: blue" target="_blank">我为人人，人人为我，免费代查论文检索情况</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-3293766-1">1</a> <a href="/t-3293766-2">2</a> <a href="/t-3293766-3">3</a> <a href="/t-3293766-4">4</a> <a href="/t-3293766-5">5</a> <a href="/t-3293766-6">6</a>  .. <a href="/t-3293766-103">103</a> )<font color="red"> (评阅+51)</font>
+
+<font color="red"> (CE-EPI+1)</font><span style="color:gray;">(1024/29129)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1261161">教师甲</a></cite>
+<span class="xmc_b9">
+2011-06-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-06-05 20:04:28</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=huohuo2012" class="xmc_b9">huohuo2012</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-14403658-1" target="_blank">GLOBECOM2020注册</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">93</font>
+
+<span style="color:gray;">(7/166)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3704834">走x三石</a></cite>
+<span class="xmc_b9">
+2020-08-21</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 23:26:49</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%BD%A3%D6%B8Paper" class="xmc_b9">剑指Paper</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-2367" title="会议点评" class="xmc_blue">会议点评</a>]</span> 
+<a class="a_subject" href="/t-14415826-1" target="_blank">诚邀参与过线上线下学术会议的木虫填写问卷</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">13</font>
+
+<span style="color:gray;">(37/102)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=6773609">IIVY1113</a></cite>
+<span class="xmc_b9">
+2020-08-31</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 23:16:29</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=2020pp" class="xmc_b9">2020pp</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-13364622-1" target="_blank">ASCC2019</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-13364622-1">1</a> <a href="/t-13364622-2">2</a> <a href="/t-13364622-3">3</a> <a href="/t-13364622-4">4</a> <a href="/t-13364622-5">5</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">301</font>
+
+<span style="color:gray;">(249/985)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1967605">610992326</a></cite>
+<span class="xmc_b9">
+2019-04-21</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 23:16:16</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=2020pp" class="xmc_b9">2020pp</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422902-1" target="_blank">【月刊】国际英文期刊--长期征稿【DOI号+知网检索】【全网最低价】</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14422902-1">1</a> <a href="/t-14422902-2">2</a> <a href="/t-14422902-3">3</a> <a href="/t-14422902-4">4</a> <a href="/t-14422902-5">5</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">44</font>
+
+<span style="color:gray;">(248/42)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12898217">开除千克</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 22:46:33</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C8%CF%BF%C9%B6%E0%BE%C3" class="xmc_b9">认可多久</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14423037-1" target="_blank">【2020-9-20】IEEE出版人文与社会科学，管理与教育工程国际会议 (HSSMEE 2020)确保EI</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">13</font>
+
+<span style="color:gray;">(3/26)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12946118">shejiaya1</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 21:28:33</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=nono2009" class="xmc_b9">nono2009</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-2367" title="会议点评" class="xmc_blue">会议点评</a>]</span> 
+<a class="a_subject" href="/t-14422136-1" target="_blank">问卷调查求助</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">21</font>
+
+<span style="color:gray;">(29/69)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=6773609">IIVY1113</a></cite>
+<span class="xmc_b9">
+2020-09-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 20:53:47</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CF%F2%D1%F4%2A%CA%D8%B9%E2" class="xmc_b9">向阳*守光</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422911-1" target="_blank">2020年管理，艺术，教育，人文与社会科学国际会议 (MAEHSS 2020)</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14422911-1">1</a> <a href="/t-14422911-2">2</a> <a href="/t-14422911-3">3</a> <a href="/t-14422911-4">4</a> <a href="/t-14422911-5">5</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">17</font>
+
+<span style="color:gray;">(235/37)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12898169">风波且慢</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 20:19:02</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D5%A3%D1%DB%C6%EB%C8%AB" class="xmc_b9">眨眼齐全</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422906-1" target="_blank">2020年人工智能与计算科学国际会议 (AICS 2020)</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14422906-1">1</a> <a href="/t-14422906-2">2</a> <a href="/t-14422906-3">3</a> <a href="/t-14422906-4">4</a> <a href="/t-14422906-5">5</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">8</font>
+
+<span style="color:gray;">(243/53)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12898192">不肯珍惜</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 20:18:38</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D7%EC%BD%C7%CF%EB%B7%A8" class="xmc_b9">嘴角想法</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> <font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14422904-1" target="_blank">第三届空气污染与环境工程国际会议 (APEE 2020)</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14422904-1">1</a> <a href="/t-14422904-2">2</a> <a href="/t-14422904-3">3</a> <a href="/t-14422904-4">4</a> <a href="/t-14422904-5">5</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">2</font>
+
+<span style="color:gray;">(246/34)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12898200">沉思感恩</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 20:18:18</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C8%CF%BF%C9%B6%E0%BE%C3" class="xmc_b9">认可多久</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-709" title="其他" class="xmc_blue">其他</a>]</span> 
+<a class="a_subject" href="/t-14423215-1" target="_blank">祈福贴</a>
+
+<span style="color:gray;">(34/61)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=9504073">CynthiaSJ</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 15:36:24</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D1%EE%C8%FD%CB%EA%D1%BD" class="xmc_b9">杨三岁呀</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14423036-1" target="_blank">确保EI，刊物最新EI目录，2020年环境与化学，资源与能源工程国际会议 (ECSREE 2020)</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">13</font>
+
+<span style="color:gray;">(3/31)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12946107">xingpai608</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 12:42:23</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%EC%B5%EA%D82019" class="xmc_b9">斓曦2019</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14423032-1" target="_blank">国际英文期刊征文--常年征稿【DOI号+知网检索】【保证全网最低价】 【月刊】</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">12</font>
+
+<span style="color:gray;">(4/18)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12946093">guoyan2480</a></cite>
+<span class="xmc_b9">
+2020-09-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-06 12:42:16</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%EC%B5%EA%D82019" class="xmc_b9">斓曦2019</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1383" title="参会经验" class="xmc_blue">参会经验</a>]</span> 
+<a class="a_subject" href="/t-14415432-1" target="_blank">[求助]参加国外会议需要提交一个学生证明材料，求助</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(1/43)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23347972">xuxuxuxujing</a></cite>
+<span class="xmc_b9">
+2020-08-31</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 20:33:30</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=chenhuanlong" class="xmc_b9">chenhuanlong</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-14416901-1" target="_blank">p300视觉测试波形能否作为阿尔茨海默病诊断依据?</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">18</font>
+
+<span style="color:gray;">(1/34)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=22933144">全都是误会</a></cite>
+<span class="xmc_b9">
+2020-09-01</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 19:13:23</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=chenhuanlong" class="xmc_b9">chenhuanlong</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14419468-1" target="_blank">Carbontech 2020 - 碳化硅半导体论坛</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">1</font>
+
+<span style="color:gray;">(4/34)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=20076440">DT_Luna</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 19:13:11</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=chenhuanlong" class="xmc_b9">chenhuanlong</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14419839-1" target="_blank">2020年第四届复合材料与高分子科学工程国际会议（CMPSE2020）</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">193</font>
+
+<span style="color:gray;">(7/67)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=13710979">yigouche</a></cite>
+<span class="xmc_b9">
+2020-09-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 19:12:51</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=chenhuanlong" class="xmc_b9">chenhuanlong</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-14421627-1" target="_blank">国内学术会议召集人一般需要做哪些事情？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(1/40)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2499184">我是燎原星火</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 19:12:04</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=chenhuanlong" class="xmc_b9">chenhuanlong</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14420857-1" target="_blank">【2021-08-08】2021年教育创新与人文科学国际会议(ICEIPI 2021)</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">7</font>
+
+<span style="color:gray;">(3/35)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1282540">无尾大尾巴猫</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-05 19:11:23</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=chenhuanlong" class="xmc_b9">chenhuanlong</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-14421679-1" target="_blank">征稿CCF C类会议IEEE HPCC 2020</a>
+
+<span style="color:gray;">(0/56)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=414290">iaxwy</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 21:21:44</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=iaxwy" class="xmc_b9">iaxwy</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1793" title="会议检索" class="xmc_blue">会议检索</a>]</span> 
+<a class="a_subject" href="/t-14161499-1" target="_blank">ICSIDP2019会议检索情况</a>
+
+<span style="color:gray;">(3/404)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2617081">zizicky</a></cite>
+<span class="xmc_b9">
+2020-03-27</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 20:09:08</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=genius007" class="xmc_b9">genius007</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<font color="red">[热]</font>
+
+<a class="a_subject" href="/t-14420594-1" target="_blank">2020年环境科学，能源与化学工程国际会议 (ESECE 2020)</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14420594-1">1</a> <a href="/t-14420594-2">2</a> <a href="/t-14420594-3">3</a> <a href="/t-14420594-4">4</a> <a href="/t-14420594-5">5</a> <a href="/t-14420594-6">6</a>  .. <a href="/t-14420594-12">12</a> )
+<span style="color:gray;">(115/58)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=11122649">鲜艳雨点</a></cite>
+<span class="xmc_b9">
+2020-09-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-04 16:38:09</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%BB%FA%C6%F7%D7%DC%BA%CD" class="xmc_b9">机器总和</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> <span class="icon_vote xmc_rm10"></span>投票:&nbsp;
+
+<a class="a_subject" href="/t-2311550-1" target="_blank">调查：会议论文学校评职称算么？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-2311550-1">1</a> <a href="/t-2311550-2">2</a> <a href="/t-2311550-3">3</a> <a href="/t-2311550-4">4</a> <a href="/t-2311550-5">5</a> <a href="/t-2311550-6">6</a>  .. <a href="/t-2311550-8">8</a> )
+<span style="color:gray;">(73/12112)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=98701">youcai</a></cite>
+<span class="xmc_b9">
+2010-08-18</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 22:01:57</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C2%F5%BF%CB%B6%FBchen" class="xmc_b9">迈克尔chen</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-11923645-1" target="_blank">压电传感器用于comsol仿真</a>
+
+<span style="color:gray;">(5/505)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7674248">qpir123456</a></cite>
+<span class="xmc_b9">
+2017-12-25</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 10:05:24</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zt247812" class="xmc_b9">zt247812</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-709" title="其他" class="xmc_blue">其他</a>]</span> 
+<a class="a_subject" href="/t-13306733-1" target="_blank">高斯09打开就自动关闭，怎么处理！</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(1/164)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=9782878">M公子</a></cite>
+<span class="xmc_b9">
+2019-03-26</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-03 07:14:47</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%BE%B2%C4%AC%C8%CB" class="xmc_b9">静默人</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14418166-1" target="_blank">这个重磅会议，让我看清了大数据的未来</a>
+
+<span style="color:gray;">(0/66)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23395547">贵州科学</a></cite>
+<span class="xmc_b9">
+2020-09-02</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 15:11:00</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B9%F3%D6%DD%BF%C6%D1%A7" class="xmc_b9">贵州科学</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-11274568-1" target="_blank">有关钙钛矿的</a>
+
+<span style="color:gray;">(1/786)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=5289350">绿蔷薇w</a></cite>
+<span class="xmc_b9">
+2017-04-12</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 14:58:53</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=barnett0632" class="xmc_b9">barnett0632</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1383" title="参会经验" class="xmc_blue">参会经验</a>]</span> 
+<a class="a_subject" href="/t-14170381-1" target="_blank">(Nov.13-16, 2020)第六届模糊系统和数据挖掘国际会议(FSDM2020)将如期召开</a>
+
+<span style="color:gray;">(12/282)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=14680181">fuzzyoasis</a></cite>
+<span class="xmc_b9">
+2020-04-01</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 08:18:38</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B9%F3%D6%DD%BF%C6%D1%A7" class="xmc_b9">贵州科学</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-13672669-1" target="_blank">Xiamen Soft Matter Forum 2019</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">8</font>
+
+<span style="color:gray;">(8/548)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3003736">fengccl</a></cite>
+<span class="xmc_b9">
+2019-09-30</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-02 07:56:18</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D0%A1%C2%B98772" class="xmc_b9">小鹿8772</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14399257-1" target="_blank">【2021-01-28】2021年第二届计算与数据科学国际会议(CONFCDS 2021)</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">6</font>
+
+<span style="color:gray;">(5/112)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1282540">无尾大尾巴猫</a></cite>
+<span class="xmc_b9">
+2020-08-18</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 22:04:42</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zhanglang93" class="xmc_b9">zhanglang93</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1793" title="会议检索" class="xmc_blue">会议检索</a>]</span> 
+<a class="a_subject" href="/t-14416523-1" target="_blank">2020年第四届复合材料与高分子科学工程国际会议（CMPSE2020）</a>
+
+<span style="color:gray;">(0/41)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=13710979">yigouche</a></cite>
+<span class="xmc_b9">
+2020-09-01</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-09-01 12:19:56</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=yigouche" class="xmc_b9">yigouche</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+
+<a class="a_subject" href="/t-7209441-1" target="_blank"><font color=purple>[已完结]</font>交通运输类国际会议有哪些</a>
+
+<span style="color:gray;">(5/4877)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2966139">wshgaoshan</a></cite>
+<span class="xmc_b9">
+2014-04-02</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-31 19:37:22</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=neeson0907" class="xmc_b9">neeson0907</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14414823-1" target="_blank">中医药抗击新冠肺炎全球讲座</a>
+
+<span style="color:gray;">(0/27)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23245400">CNKI-Fjj</a></cite>
+<span class="xmc_b9">
+2020-08-31</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-31 09:36:30</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=CNKI-Fjj" class="xmc_b9">CNKI-Fjj</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-14396819-1" target="_blank">2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">1</font>
+
+<span style="color:gray;">(20/421)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=21660791">库库昊天</a></cite>
+<span class="xmc_b9">
+2020-08-16</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-31 08:53:14</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%BF%E2%BF%E2%EA%BB%CC%EC" class="xmc_b9">库库昊天</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-2367" title="会议点评" class="xmc_blue">会议点评</a>]</span> 
+<a class="a_subject" href="/t-14411998-1" target="_blank">后疫情时代下的学术会议--工程数值模拟</a>
+
+<span style="color:gray;">(5/44)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3043664">wdcekfk98</a></cite>
+<span class="xmc_b9">
+2020-08-28</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-30 07:33:29</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=qt211" class="xmc_b9">qt211</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1383" title="参会经验" class="xmc_blue">参会经验</a>]</span> 
+<a class="a_subject" href="/t-14410941-1" target="_blank">2020年底左右估计能去澳门参会吗</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">2</font>
+
+<span style="color:gray;">(3/40)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3043664">wdcekfk98</a></cite>
+<span class="xmc_b9">
+2020-08-27</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-30 07:32:53</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=qt211" class="xmc_b9">qt211</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-2367" title="会议点评" class="xmc_blue">会议点评</a>]</span> 
+<a class="a_subject" href="/t-13663611-1" target="_blank">大家觉得学术会议的纪念品重要吗？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">31</font>
+
+<span style="color:gray;">(33/838)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=17488627">雅森学术</a></cite>
+<span class="xmc_b9">
+2019-09-25</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-30 03:52:49</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D0%A1%C2%B98772" class="xmc_b9">小鹿8772</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1793" title="会议检索" class="xmc_blue">会议检索</a>]</span> 
+<a class="a_subject" href="/t-14413250-1" target="_blank">Solar engergy design scheme of high-rise ressidential buildings</a>
+
+<span style="color:gray;">(0/48)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=20720671">Sandy Sun</a></cite>
+<span class="xmc_b9">
+2020-08-29</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-29 15:34:23</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Sandy%20Sun" class="xmc_b9">Sandy Sun</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1383" title="参会经验" class="xmc_blue">参会经验</a>]</span> 
+<a class="a_subject" href="/t-14413247-1" target="_blank">Power System Dynamics and Transients</a>
+
+<span style="color:gray;">(0/27)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=20720671">Sandy Sun</a></cite>
+<span class="xmc_b9">
+2020-08-29</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-29 15:32:31</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Sandy%20Sun" class="xmc_b9">Sandy Sun</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14412348-1" target="_blank">截稿通知-[澳门]-材料强度与应用力学国际会议</a>
+
+<span style="color:gray;">(20/89)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7514197">Xiao Ye</a></cite>
+<span class="xmc_b9">
+2020-08-28</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-28 22:57:46</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hjgizq" class="xmc_b9">hjgizq</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-14412048-1" target="_blank">麻烦查询一下论文是否cpci检索</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">20</font>
+
+<span style="color:gray;">(0/32)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=372362">dodowowo</a></cite>
+<span class="xmc_b9">
+2020-08-28</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-28 14:46:14</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=dodowowo" class="xmc_b9">dodowowo</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1383" title="参会经验" class="xmc_blue">参会经验</a>]</span> 
+<a class="a_subject" href="/t-8771484-1" target="_blank"><font color=purple>[已完结]</font>IEEE会议注册的问题(for IEEE PES gm 2015)</a>
+
+<span style="color:gray;">(3/1946)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2185669">shoreyard</a></cite>
+<span class="xmc_b9">
+2015-04-08</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-27 07:29:04</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=lovewangbo" class="xmc_b9">lovewangbo</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14408651-1" target="_blank">求有关柔性电子或者电化学电容器一类的国内会议</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(2/63)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23400535">Tianze1482</a></cite>
+<span class="xmc_b9">
+2020-08-25</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-25 21:03:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Tianze1482" class="xmc_b9">Tianze1482</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14408502-1" target="_blank">【2020-9-10】2020年能源，资源，环境与化学工程国际会议 (ERECE 2020)</a>
+
+<span style="color:gray;">(20/113)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12925924">weiyuanzha</a></cite>
+<span class="xmc_b9">
+2020-08-25</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-25 14:27:41</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=ymbabc" class="xmc_b9">ymbabc</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-13675460-1" target="_blank">有参加BIBM2019的吗？</a>
+
+<span style="color:gray;">(3/221)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=17894566">锟街伙拷锟矫伙�</a></cite>
+<span class="xmc_b9">
+2019-10-03</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-25 14:04:37</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B4%F3%B3%E6147" class="xmc_b9">大虫147</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14408511-1" target="_blank">【2020-9-10】2020年材料，机械，电气，自动化与控制工程国际会议 (MMEACE 2020)</a>
+
+<span style="color:gray;">(20/93)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12925924">weiyuanzha</a></cite>
+<span class="xmc_b9">
+2020-08-25</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-25 13:51:32</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=jkq10" class="xmc_b9">jkq10</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14253814-1" target="_blank">【2020-5-20】第二届材料科学，能源与环境工程国际会议 (MSEEE 2020)</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">9</font>
+
+<span style="color:gray;">(12/285)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=8747688">wangmiyu</a></cite>
+<span class="xmc_b9">
+2020-05-15</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-25 12:45:58</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C4%BE%B9%CF6666" class="xmc_b9">木瓜6666</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-12407288-1" target="_blank">有没有7月10号意大利米兰理工大学ASAP2018的小伙伴</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(4/471)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2604452">领悟、</a></cite>
+<span class="xmc_b9">
+2018-06-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-25 05:50:31</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=lhc5203344" class="xmc_b9">lhc5203344</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14407222-1" target="_blank">【2020-9-10】2020年能源，资源，环境与化学工程国际会议 (ERECE 2020)</a>
+
+<span style="color:gray;">(23/59)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12925885">kongju828</a></cite>
+<span class="xmc_b9">
+2020-08-24</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-24 16:59:10</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=755053459" class="xmc_b9">755053459</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14407192-1" target="_blank">国际际英文期刊征文--长期征稿【DOI+知网】【全网最低价】（诚邀代理）</a>
+
+<span style="color:gray;">(20/77)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12925885">kongju828</a></cite>
+<span class="xmc_b9">
+2020-08-24</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-24 16:27:26</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hit_fmonkey" class="xmc_b9">hit_fmonkey</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14401383-1" target="_blank">碳纤维及其复合材料论坛：后疫情时代，碳纤维行业的突破</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">35</font>
+
+<span style="color:gray;">(7/98)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1176003">442629613</a></cite>
+<span class="xmc_b9">
+2020-08-19</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-24 14:33:13</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bjdxyxy" class="xmc_b9">bjdxyxy</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14390616-1" target="_blank">1微米线宽1微米间距电极lift-off制作工艺</a>
+
+<span style="color:gray;">(31/177)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=6788481">高分子材料虫</a></cite>
+<span class="xmc_b9">
+2020-08-11</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-24 14:11:27</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Kashiwagi" class="xmc_b9">Kashiwagi</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14406746-1" target="_blank">【2020-8-31】2020年材料、制造、机械工程与技术国际会议 (MMMET 2020）</a>
+
+<span style="color:gray;">(24/85)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=12925877">shengnue</a></cite>
+<span class="xmc_b9">
+2020-08-24</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-24 11:37:20</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=cindy%40lxd" class="xmc_b9">cindy@lxd</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-709" title="其他" class="xmc_blue">其他</a>]</span> 
+<a class="a_subject" href="/t-13418668-1" target="_blank">SciTePress-- ISMEM 2019  （机械工程/机电/工业类文章）</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">7</font>
+
+<span style="color:gray;">(11/293)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=14679625">B968552</a></cite>
+<span class="xmc_b9">
+2019-05-17</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-24 11:32:59</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bjdxyxy" class="xmc_b9">bjdxyxy</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1383" title="参会经验" class="xmc_blue">参会经验</a>]</span> 
+<a class="a_subject" href="/t-13525847-1" target="_blank">有谁参加在英国举办的UIC2019嘛？</a>
+
+<span style="color:gray;">(4/238)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=15299710">AH_QSY</a></cite>
+<span class="xmc_b9">
+2019-07-12</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-24 07:49:09</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=tuanlalala" class="xmc_b9">tuanlalala</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-2367" title="会议点评" class="xmc_blue">会议点评</a>]</span> 
+<a class="a_subject" href="/t-14404339-1" target="_blank">2020基于大数据的现代管理国际会议(MMBD2020)已改为线上同期举行</a>
+
+<span style="color:gray;">(20/110)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=22081981">哈Der</a></cite>
+<span class="xmc_b9">
+2020-08-21</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-21 19:26:51</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=alford" class="xmc_b9">alford</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14404313-1" target="_blank">在线会议截稿通知SCI-材料科学与工程领域</a>
+
+<span style="color:gray;">(0/74)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7514197">Xiao Ye</a></cite>
+<span class="xmc_b9">
+2020-08-21</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-21 17:04:34</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Xiao%20Ye" class="xmc_b9">Xiao Ye</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14365933-1" target="_blank">IOP/JPCS 第四届物理，数学与统计国际学术会议 (ICPMS2021)</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">26</font>
+
+<span style="color:gray;">(5/127)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=6447633">沙与沫613</a></cite>
+<span class="xmc_b9">
+2020-07-23</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-21 16:34:51</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C9%B3%D3%EB%C4%AD613" class="xmc_b9">沙与沫613</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-2367" title="会议点评" class="xmc_blue">会议点评</a>]</span> 
+<a class="a_subject" href="/t-14146707-1" target="_blank">IEEE- CYBER</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">24</font>
+
+<span style="color:gray;">(18/433)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3651064">阎强要考博</a></cite>
+<span class="xmc_b9">
+2020-03-19</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-20 14:11:23</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=bjdxyxy" class="xmc_b9">bjdxyxy</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-13754829-1" target="_blank">会议gncc 2018不能EI检索，gncc2020可以么</a>
+
+<span style="color:gray;">(1/370)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=4161366">mlshenhua</a></cite>
+<span class="xmc_b9">
+2019-11-17</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-20 09:50:56</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=mlshenhua" class="xmc_b9">mlshenhua</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-709" title="其他" class="xmc_blue">其他</a>]</span> 
+<a class="a_subject" href="/t-14401826-1" target="_blank">要是把985，211高校实施足球职业联赛等级制会如何？</a>
+
+<span style="color:gray;">(0/94)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1089423">zhuxinyao</a></cite>
+<span class="xmc_b9">
+2020-08-19</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-19 23:05:30</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zhuxinyao" class="xmc_b9">zhuxinyao</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14401388-1" target="_blank">碳/碳复合材料行业研讨会</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">33</font>
+
+<span style="color:gray;">(3/116)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1176003">442629613</a></cite>
+<span class="xmc_b9">
+2020-08-19</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-19 18:24:59</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=nono2009" class="xmc_b9">nono2009</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14391356-1" target="_blank">Call for Papers: AIMEE2020</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">4</font>
+
+<span style="color:gray;">(7/121)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23338923">mecs2020</a></cite>
+<span class="xmc_b9">
+2020-08-11</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-19 17:13:48</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CE%DE%CE%B2%B4%F3%CE%B2%B0%CD%C3%A8" class="xmc_b9">无尾大尾巴猫</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14401183-1" target="_blank">中国微米纳米技术学会第二十二届学术年会</a>
+
+<span style="color:gray;">(0/113)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1324452">yilinmama</a></cite>
+<span class="xmc_b9">
+2020-08-19</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-19 14:47:55</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=yilinmama" class="xmc_b9">yilinmama</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14388338-1" target="_blank">怎么查找国外举行的国际会议啊</a>
+
+<span style="color:gray;">(1/138)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23329596">奥斯大帝</a></cite>
+<span class="xmc_b9">
+2020-08-09</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-19 14:14:42</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CE%DE%CE%B2%B4%F3%CE%B2%B0%CD%C3%A8" class="xmc_b9">无尾大尾巴猫</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14391354-1" target="_blank">Call for Papers</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">3</font>
+
+<span style="color:gray;">(7/128)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23332529">gaolin2020</a></cite>
+<span class="xmc_b9">
+2020-08-11</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-19 14:09:08</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CE%DE%CE%B2%B4%F3%CE%B2%B0%CD%C3%A8" class="xmc_b9">无尾大尾巴猫</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14399824-1" target="_blank">在线会议--Video Presentation邀请</a>
+
+<span style="color:gray;">(5/91)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3043664">wdcekfk98</a></cite>
+<span class="xmc_b9">
+2020-08-18</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-19 10:57:46</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=nono2009" class="xmc_b9">nono2009</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14394740-1" target="_blank">【直播预告】重磅专家分享优质纯水助力临床精准诊断</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">94</font>
+
+<span style="color:gray;">(7/58)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2302321">face_moon</a></cite>
+<span class="xmc_b9">
+2020-08-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-18 21:37:06</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D0%A1%C2%B98772" class="xmc_b9">小鹿8772</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14398828-1" target="_blank">2020中国化工学会科技创新大会-安全环保工程论坛-征稿-欢迎同行投稿交流</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">95</font>
+
+<span style="color:gray;">(5/109)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1514105">zzmy123</a></cite>
+<span class="xmc_b9">
+2020-08-18</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-18 16:48:51</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D0%A1%C2%B98772" class="xmc_b9">小鹿8772</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-4679440-1" target="_blank">有关IEEE pdf checker</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">1</font>
+
+<span style="color:gray;">(4/965)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1193048">zcyay</a></cite>
+<span class="xmc_b9">
+2012-06-30</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-18 13:59:50</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B4%F3%CE%D2%B0%AE%C2%DE" class="xmc_b9">大我爱罗</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-709" title="其他" class="xmc_blue">其他</a>]</span> 
+<a class="a_subject" href="/t-14398588-1" target="_blank">光学镀膜</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">20</font>
+
+<span style="color:gray;">(1/60)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7644156">小数点、</a></cite>
+<span class="xmc_b9">
+2020-08-17</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-18 00:56:52</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=zhougbnju" class="xmc_b9">zhougbnju</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14398585-1" target="_blank">ICPE 2021, 12th ACM/SPEC International Conference on Performance Engineering</a>
+
+<span style="color:gray;">(0/65)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=986809">whm2006</a></cite>
+<span class="xmc_b9">
+2020-08-17</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-17 22:26:39</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=whm2006" class="xmc_b9">whm2006</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/app/redpackicon.png" align="absmiddle" title="红包">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14398175-1" target="_blank">【2020-01-28】2021第四届经济管理与绿色发展国际会议(ICEMGD 2021)</a>
+
+<span style="color:gray;">(10/146)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1282540">无尾大尾巴猫</a></cite>
+<span class="xmc_b9">
+2020-08-17</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-17 17:17:44</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Wsmm331" class="xmc_b9">Wsmm331</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14394614-1" target="_blank">GLOBECOM 2020 什么时候出通知？今天bug还能用吗？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-14394614-1">1</a> <a href="/t-14394614-2">2</a> )
+<span style="color:gray;">(13/778)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1182949">kirorototti</a></cite>
+<span class="xmc_b9">
+2020-08-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-17 13:03:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=lili_an" class="xmc_b9">lili_an</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-709" title="其他" class="xmc_blue">其他</a>]</span> 
+<a class="a_subject" href="/t-14386364-1" target="_blank">SCI征稿提醒-工程数值模拟</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">1</font>
+
+<span style="color:gray;">(7/139)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3043664">wdcekfk98</a></cite>
+<span class="xmc_b9">
+2020-08-07</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-17 13:02:39</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=lili_an" class="xmc_b9">lili_an</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-709" title="其他" class="xmc_blue">其他</a>]</span> 
+<a class="a_subject" href="/t-11711395-1" target="_blank">ACM MM 硅谷求室友</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">20</font>
+
+<span style="color:gray;">(2/464)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=6491702">yunbintu</a></cite>
+<span class="xmc_b9">
+2017-10-01</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-17 11:54:10</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Dreamerzzw" class="xmc_b9">Dreamerzzw</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14284174-1" target="_blank">机器学习在凝聚态物理中的应用研讨会</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">85</font>
+
+<span style="color:gray;">(25/553)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1715614">yuanjiaren</a></cite>
+<span class="xmc_b9">
+2020-05-28</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-17 10:14:34</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%CD%FC%B4%A8%C9%BD%C8%CB" class="xmc_b9">忘川山人</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14394497-1" target="_blank">CMA2020金属合金类的会议有感兴趣的吗</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">3</font>
+
+<span style="color:gray;">(2/48)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3043664">wdcekfk98</a></cite>
+<span class="xmc_b9">
+2020-08-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-16 08:13:00</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=nono2009" class="xmc_b9">nono2009</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-14396026-1" target="_blank">求ica3pp 2020讨论群</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(0/53)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3447388">一米小二</a></cite>
+<span class="xmc_b9">
+2020-08-14</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-14 22:57:07</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D2%BB%C3%D7%D0%A1%B6%FE" class="xmc_b9">一米小二</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14383673-1" target="_blank">请问最近有没有材料，化学方面的会议呢</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">8</font>
+
+<span style="color:gray;">(3/158)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1092303">科研000000</a></cite>
+<span class="xmc_b9">
+2020-08-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-14 12:27:11</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%D6%AA%D0%C4%CF%E7%CD%C1" class="xmc_b9">知心乡土</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14353447-1" target="_blank">确保EI检索【2020-7-31】IEEE出版，2020年通讯，计算机，人工智能国际会议 ICCCA 2020</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">1</font>
+
+<span style="color:gray;">(39/497)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=14688869">gaolei376</a></cite>
+<span class="xmc_b9">
+2020-07-14</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-14 10:30:22</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=ptz890878" class="xmc_b9">ptz890878</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14395162-1" target="_blank">ｅｉ</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(0/54)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=23329596">奥斯大帝</a></cite>
+<span class="xmc_b9">
+2020-08-14</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-14 09:38:37</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B0%C2%CB%B9%B4%F3%B5%DB" class="xmc_b9">奥斯大帝</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-2367" title="会议点评" class="xmc_blue">会议点评</a>]</span> 
+<a class="a_subject" href="/t-13809868-1" target="_blank">ccf-b类会议出结果了</a>
+
+<span style="color:gray;">(2/1153)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3536737">yuanye1080</a></cite>
+<span class="xmc_b9">
+2019-12-20</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-13 14:46:20</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=yuanye1080" class="xmc_b9">yuanye1080</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14393979-1" target="_blank">求助百度文库PPT，蔬菜中农残检测技术(刘潇威)</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">50</font>
+
+<span style="color:gray;">(0/36)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1418415">Eld_cc</a></cite>
+<span class="xmc_b9">
+2020-08-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-13 12:33:30</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=Eld_cc" class="xmc_b9">Eld_cc</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14393864-1" target="_blank">【知领直播】第五届紫金论电国际学术研讨会</a>
+
+<span style="color:gray;">(0/89)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=8439082">ckcest</a></cite>
+<span class="xmc_b9">
+2020-08-13</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-13 11:12:55</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=ckcest" class="xmc_b9">ckcest</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1383" title="参会经验" class="xmc_blue">参会经验</a>]</span> 
+<a class="a_subject" href="/t-14390607-1" target="_blank">会议截稿日期一延再延。。。</a>
+
+<span style="color:gray;">(1/110)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=6570497">岁活</a></cite>
+<span class="xmc_b9">
+2020-08-11</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-11 16:47:09</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=duxiaoyun" class="xmc_b9">duxiaoyun</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-4748491-1" target="_blank">投了个会议结果被骗了，大家能推荐个靠谱点的EI检索会议吗？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-4748491-1">1</a> <a href="/t-4748491-2">2</a> <a href="/t-4748491-3">3</a> )<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">1</font>
+
+<span style="color:gray;">(29/4141)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1305102">hq89625</a></cite>
+<span class="xmc_b9">
+2012-07-19</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-11 07:33:34</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C6%DA%BF%AF%B2%A9%CA%BF" class="xmc_b9">期刊博士</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-709" title="其他" class="xmc_blue">其他</a>]</span> 
+<a class="a_subject" href="/t-14198303-1" target="_blank">求挂各省省级课题</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(6/509)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=21435988">daizhichu</a></cite>
+<span class="xmc_b9">
+2020-04-16</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-11 07:32:56</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C6%DA%BF%AF%B2%A9%CA%BF" class="xmc_b9">期刊博士</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1383" title="参会经验" class="xmc_blue">参会经验</a>]</span> 
+<a class="a_subject" href="/t-14310489-1" target="_blank">IEEE 会议的Early-bird Registration 是什么意思</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(3/338)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=14402588">OLAF1995</a></cite>
+<span class="xmc_b9">
+2020-06-14</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-10 19:02:02</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=feudts" class="xmc_b9">feudts</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-14388067-1" target="_blank">注册11月份爱思唯尔世界生物传感大会（釜山），由于疫情原因不想去了，如何操作退款？</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">10</font>
+
+<span style="color:gray;">(0/132)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3251081">ArchAngel001</a></cite>
+<span class="xmc_b9">
+2020-08-09</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-09 10:22:13</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=ArchAngel001" class="xmc_b9">ArchAngel001</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1793" title="会议检索" class="xmc_blue">会议检索</a>]</span> 
+<a class="a_subject" href="/t-14236123-1" target="_blank">aeic组委会和艾思学术平台怎么样呀</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(1/921)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=11097547">花Man楼楼</a></cite>
+<span class="xmc_b9">
+2020-05-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-07 12:38:21</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B0%D7%C7%EF00" class="xmc_b9">白秋00</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1793" title="会议检索" class="xmc_blue">会议检索</a>]</span> 
+<a class="a_subject" href="/t-14384723-1" target="_blank">最后一轮征稿提醒！！第十届电子通信与网络会议论文（EI)</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">2</font>
+
+<span style="color:gray;">(3/109)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3043664">wdcekfk98</a></cite>
+<span class="xmc_b9">
+2020-08-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-07 08:49:14</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=nono2009" class="xmc_b9">nono2009</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-14382863-1" target="_blank">今年国内有啥土木环境类会议召开么？</a>
+
+<span style="color:gray;">(2/166)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=15993360">zch哈哈</a></cite>
+<span class="xmc_b9">
+2020-08-05</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-06 12:07:03</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=cls512" class="xmc_b9">cls512</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-1793" title="会议检索" class="xmc_blue">会议检索</a>]</span> 
+<a class="a_subject" href="/t-9217184-1" target="_blank"><font color=purple>[已完结]</font>求助：第32届匹兹堡国际煤炭大会，什么检索？</a>
+<font color="red"> (评阅+1)</font>
+
+<span style="color:gray;">(2/530)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=3239591">447959902</a></cite>
+<span class="xmc_b9">
+2015-07-28</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-06 05:53:35</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%B5%DA%B6%FEboy" class="xmc_b9">第二boy</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/image.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-13729979-1" target="_blank">globecom2019参会微信讨论群</a>
+
+<span style="color:gray;">(1/588)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=5201553">momordica19</a></cite>
+<span class="xmc_b9">
+2019-11-04</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-05 19:53:30</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=doupa1089" class="xmc_b9">doupa1089</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+
+<a class="a_subject" href="/t-1985362-1" target="_blank">【求助】请问《科技促进发展》期刊现在的情况？？？</a>
+&nbsp; &nbsp;( <img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/multipage.gif" align="absmiddle" boader="0"> <a href="/t-1985362-1">1</a> <a href="/t-1985362-2">2</a> )
+<span style="color:gray;">(12/1869)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=734127">秋天白云</a></cite>
+<span class="xmc_b9">
+2010-04-22</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-05 17:20:20</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=starsriver" class="xmc_b9">starsriver</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/gray.png">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-13665003-1" target="_blank">ITSC2019新西兰</a>
+
+<span style="color:gray;">(6/1018)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=17702713">ucas-zsj</a></cite>
+<span class="xmc_b9">
+2019-09-26</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-05 14:05:43</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=ucas-zsj" class="xmc_b9">ucas-zsj</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/question.png" title="求助">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-827" title="讨论咨询" class="xmc_blue">讨论咨询</a>]</span> 
+<a class="a_subject" href="/t-13385205-1" target="_blank">ICSS CCF 2019 International Conference on Service Science (CCF ICSS2019)</a>
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/credit.gif" border="0" align="absmiddle"> <font color="green">5</font>
+
+<span style="color:gray;">(1/732)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=7235178">木渔沫沫</a></cite>
+<span class="xmc_b9">
+2019-04-30</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-05 10:16:58</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=liuhai1" class="xmc_b9">liuhai1</a> </span>
+
+</th>
+</tr>
+</tbody>
+                                            <tr class="forum_head" style="border-left: 0px;border-right: 0px; background: #BCD0ED;">
+<td colspan="2" class="xmc_lp15" style="background: #BCD0ED;"><font color=red>资源</font> [ <a href="http://muchong.com/f-299-1-threadtype-3">查看全部</a> ]</td>
+<td width="120" align="center" style="background: #BCD0ED;">作者</td>
+<td width="70" align="center" style="background: #BCD0ED;">最后发表</td>
+</tr>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/attachicons/common.gif" align="absmiddle" border="0"> </span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-709" title="其他" class="xmc_blue">其他</a>]</span> 
+<a class="a_subject" href="/t-14059208-1" target="_blank">人工智能机器人商业介绍PPT模板</a>
+
+<span style="color:gray;">(14/356)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=2427276">fenmoyejin</a></cite>
+<span class="xmc_b9">
+2020-02-10</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-28 13:55:27</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=hutao-168" class="xmc_b9">hutao-168</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14400094-1" target="_blank">第七届信息科学与控制工程国际会议（ICISCE 2020）</a>
+
+<span style="color:gray;">(1/105)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1314965">published</a></cite>
+<span class="xmc_b9">
+2020-08-18</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-18 23:55:23</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=%C2%ED%CE%C4%EA%BF123" class="xmc_b9">马文昕123</a> </span>
+
+</th>
+</tr>
+</tbody>
+<tbody >
+<tr class="forum_list">
+<th class="icn">
+<span class="noRead">
+<img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/qing/images/download1.png" title="下载">
+</span>
+<span class="alreadyRead"></span>
+
+</th>
+<th   class="thread-name" >
+<span>[<a href="/f-299-1-typeid-708" title="会议资源" class="xmc_blue">会议资源</a>]</span> 
+<a class="a_subject" href="/t-14384567-1" target="_blank">2020年上海市研究生学术论坛  ——“交通运输安全与环境工程”分论坛征稿通知</a>
+
+<span style="color:gray;">(1/146)</span>
+
+</th>
+
+<th class="by">
+<cite><a href="space.php?uid=1634056">cls512</a></cite>
+<span class="xmc_b9">
+2020-08-06</span>
+</th>
+
+<th class="by">
+<cite><nobr>2020-08-06 12:12:03</nobr></cite>
+<span class="xmc_b9"> by <a href="viewpro.php?username=cls512" class="xmc_b9">cls512</a> </span>
+
+</th>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+</form>
+</div>
+
+<div class="wrapper">
+<div class="hr_10"></div>
+<div class="solid">
+<div class="xmc_fr xmc_Pages">
+<table class="multi" cellspacing="1" cellpadding="6" style=""><tr bgcolor="#E4EAF2" class="smalltxt"><td class="header">27151</td><td class="header">1/272</td><td><u><b>1</b></u></td><td><a href="http://muchong.com/f-299-2">2</a></td><td><a href="http://muchong.com/f-299-3">3</a></td><td><a href="http://muchong.com/f-299-4">4</a></td><td><a href="http://muchong.com/f-299-5">5</a></td><td><a href="http://muchong.com/f-299-6">6</a></td><td><a href="http://muchong.com/f-299-2">下一页</a></td></tr></table></div>
+</div>
+
+<div class="hr_10"></div>
+<div class="forum_opera xmc_brt2 solid">
+    	<span class="xmc_fr">
+        	相关版块跳转
+            <select name="jumpfid"  class="forumdisply" onchange="location.href='/f-'+this.value+'-1'" >
+<option value="125"><font color=red>论文投稿</font></option>
+<option value="360">SCI期刊点评</option>
+<option value="431">中文期刊点评</option>
+<option value="307"><font color=red>论文道贺祈福</font></option>
+<option value="278">论文翻译</option>
+<option value="234"><font color=green>基金申请</font></option>
+<option value="299" selected>学术会议</option>
+<option value="345"><font color=red>会议与征稿布告栏</font></option>
+</select>
+        </span>
+<form method="post" action="forumdisplay.php?fid=299&type=&threadtype=0&displayorder=">
+<input type="hidden" name="formhash" value="5f41f52e">
+        <span>
+        	<div class="xmc_fl">查看
+            <select name="order" class="vieworder">
+<option value="lastpost">最后发表</option>
+<option value="tid">发贴时间</option>
+</select>
+            <select name="ascdesc" class="vieworder">
+<option value="DESC">按降序排列</option>
+<option value="ASC">按升序排列</option>
+</select>
+</div>
+<div class="xmc_fl xmc_lm5">
+            <input type="submit" value="提交" class="reg_button3">
+</div>
+        </span>
+</form>
+</div>
+</div>
+
+
+<script type="text/javascript">
+jQuery(function() {
+jQuery('.forumdisply').sSelect();
+jQuery('.vieworder').sSelect();
+
+});
+</script>
+
+<div class="hr_10"></div>
+<footer style="background: #fff;">
+<div class="footer_icp"></div>
+<iframe id="ajaxframe" name="ajaxframe" frameborder="0" scrolling="no" src="about:blank;" width="0" height="0" charset="gbk" style="height: 0px; line-height: 1px;"></iframe>
+<div class="wrapper">
+<div class="padding:20px;">
+<table  cellspacing="5" cellpadding="5" align="center">
+<tr><td align="center"><a href="http://muchong.com/bbs/a234.html" class="" target="_blank" style='display: inherit!important;'><img src="http://muchongimg.xmcimg.com/oss2/img/2019/1112/1_1573551898_544.gif" align="absmiddle" width="760" height="90"></a></td></tr>
+<tr><td align="center"></td></tr>
+<tr><td align="center"></td></tr>
+<tr><td align="center" height="60">
+<p>
+<strong style="font-size:24px;"><u><a href="http://muchong.com/bbs/a2488.html" class="" target="_blank" style='display: inherit!important;'>来这里，找考研直系学长！</a></u></strong>
+</p>
+</td></tr>
+</table>
+</div>
+</div>
+<div class="hr_20"></div>
+
+
+
+<div style="text-align:center;margin:0 auto;margin:0 auto;">
+<a name="#bottom"></a>
+<table align="center">
+<tr>
+<td align="center" style="padding-left:20px;">
+
+<div style="line-height:1.5;">
+<a href="http://mob.muchong.com/bbs/index.php?pc=no" class="mediumtxt" rel="nofollow"><u>切换到手机版</u></a> -
+<a href="http://muchong.com/t-11622561-1" class="mediumtxt" rel="nofollow" target="_blank"><u>清除COOKIES</u></a> -
+<a href="supporter.php?view=ad" class="mediumtxt" rel="nofollow"><u>广告投放说明</u></a> -
+<a href="post.php?action=newthread&fid=321" class="mediumtxt" rel="nofollow"><u>给我们提意见</u></a> -
+<a href="http://m.muchong.com/?f=bbs&w=footer_text" target="_blank"><u>手机客户端</u></a> -
+<a href="supporter.php" target="_blank"><u>捐助小木虫</u></a> -
+<a href="http://src.100tal.com/?_f=muchong" target="_blank" rel="nofollow"><u>漏洞提交</u></a>
+<br>
+小木虫,学术科研互动社区,为中国学术科研免费提供动力<br>
+违规、侵权举报等事项，请邮件联系emuch2018@163.com 处理<br>
+广告投放与宣传请联系 <u>李想</u> QQ：<a href='http://wpa.qq.com/msgrd?v=3&uin=64901448&site=qq&menu=yes'><u>64901448</u></a>
+QQ：<a href='http://wpa.qq.com/msgrd?v=3&uin=2829862428&site=qq&menu=yes'><u>2829862428</u></a>&nbsp;&nbsp;邮箱：<u>64901448@qq.com</u><br>
+
+<div style="color:gray;">Copyright &copy; 2001-2020 MuChong.com, All Rights Reserved. 小木虫 版权所有
+</div>
+<div>
+<a href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow">京ICP备09032638号-13</a>
+<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802022153" rel="nofollow"><img src="http://muchongimg.xmcimg.com/data/emuch_bbs_images/logo/jgwab.jpg" align="absmiddle"/>京公网安备 11010802022153号</a>
+
+</div>
+<br/>
+<table>
+<tr>
+<td style="padding-right: 15px; border-right: 1px solid #cccccc"><a target="_blank" href="http://m.muchong.com/?f=bbs&w=footer_v" rel="nofollow"><img height="100" src="http://muchongimg.xmcimg.com/data/bcs/2017/0226/1_1488123568_827.png"></a>
+</td>
+<td style="padding-left: 15px;">
+<a key="5704b2daefbfb0745c47297e" logo_size="124x47" logo_type="business"
+   href="http://www.anquan.org">
+<script src="http://static.anquan.org/static/outer/js/aq_auth.js"></script>
+</a>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+<br></div>
+<div id="goTopBtn" style="display:none;"></div>
+<script type="text/javascript">goTopEx();</script>
+</footer>
+<script src="http://push.zhanzhang.baidu.com/push.js" ></script><script>
+
+;(function(){
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','http://muchongimg.xmcimg.com/data/emuch_bbs_images/js/qing/js/analytics.js?15373250','ga');
+var f = emuch.getQueryString('f');
+if(f !== null ) {
+var w = emuch.getQueryString('w');
+ga('outside', 'event', 'web', f,w);
+}
+ga('create', 'UA-1947017-8', 'auto');
+if(typeof XMC_GKEY != "undefined" && XMC_GKEY){
+ga('set', 'title', XMC_GKEY);
+}
+ga('send', 'pageview');
+if(typeof GA_TYPE != "undefined" && typeof GA_TYPE_NAME  != "undefined" ) {
+ga('send', 'event', GA_TYPE_NAME, GA_TYPE, "0");
+}
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?2207ecfb7b2633a3bc5c4968feb58569";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+})();
+</script>
+
+</body>
+</html>
